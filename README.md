@@ -20,4 +20,3 @@ Penguin Fashion is a web-based application designed to showcase stylish and tren
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/mahiamOmO/penguin-fasion.git
-
